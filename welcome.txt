@@ -1,2 +1,6 @@
 helloo
+<<<<<<< HEAD
 My name is Aditi
+=======
+welcome to swabhav
+>>>>>>> 5f1f62378bf2cda265f559522e90eded0af622f0
