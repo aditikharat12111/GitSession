@@ -1,3 +1,11 @@
 helloo
+<<<<<<< HEAD
 welcome to swabhav
 after aditi i push
+=======
+<<<<<<< HEAD
+My name is Aditi
+=======
+welcome to swabhav
+>>>>>>> 5f1f62378bf2cda265f559522e90eded0af622f0
+>>>>>>> 6638ed4725d8c08f5959932b32c670692db6e14f
