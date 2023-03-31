@@ -67,7 +67,7 @@ header #menu{
     display: none;
 }
 
-header .navbar ul{
+ ul{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -76,16 +76,16 @@ header .navbar ul{
     padding:1rem; 
 }
 
-header .navbar ul li{
+li{
     margin:0 1.5rem;
 }
 
-header .navbar ul li a{
+ a{
     font-size: 2rem;
     color:#fff;
 }
 
-header .navbar ul li a:hover{
+a:hover{
     color:#444;
 }
 
@@ -200,15 +200,14 @@ header .navbar ul li a:hover{
     background:#eee;
 }
 
-.plan .box-container{
+.box-container{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     padding:2rem 0;
 }
-
-.plan .box-container .box{
+ .box{
     background:#fff;
     margin:1rem;
     padding:2rem;
@@ -218,13 +217,13 @@ header .navbar ul li a:hover{
     position: relative;
 }
 
-.plan .box-container .box .title{
+ .title{
     font-size: 3rem;
     color:#666;
     padding:1rem 0;
 }
 
-.plan .box-container .box .price{
+.price{
     background:var(--orange);
     color:#fff;
     border-radius: 50%;
@@ -236,11 +235,11 @@ header .navbar ul li a:hover{
     font-size: 2.9rem;
 }
 
-.plan .box-container .box .price span{
+.price span{
     font-size: 2rem;
 }
 
-.plan .box-container .box ul li{
+ li{
     color:#666;
     list-style: none;
     font-size: 1.7rem;
